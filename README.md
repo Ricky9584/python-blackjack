@@ -10,6 +10,10 @@ A fully functional Blackjack card game built with Python and Tkinter.
 - 🎨 Clean, interactive GUI with hover effects
 - ✅ Input validation for bet amounts
 
+## Screenshots
+![homescreen](images/blackjack_1.png)
+![blackjack_game](images/blackjack_2.png)
+
 ## Requirements
 
 - Python 3.8+
