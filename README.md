@@ -17,9 +17,11 @@ A fully functional Blackjack card game built with Python and Tkinter.
 
 ## Installation
 
+```bash
 git clone https://github.com/Ricky9584/python-blackjack.git
 cd python-blackjack
 python blackjack_objects.py
+```
 
 ## How to Play
 
